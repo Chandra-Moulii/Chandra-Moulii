@@ -4,7 +4,7 @@ Hi 👋 My name is Chandra mouli
 Web developer
 -------------
 
-I've been learning to code for 5 months. I began with HTML and CSS and quickly discovered a love for frontend development.
+I've been learning to code for 8 months. I began with HTML and CSS and quickly discovered a love for frontend development.
 
 * 🌍  I'm based in India, A.P
 * 🧠  I'm learning React
